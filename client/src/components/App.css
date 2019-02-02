@@ -1,0 +1,15 @@
+html,
+body {
+    background-color: #f6f9fc;
+    margin: 0;
+}
+
+a,
+a:link,
+a:visited {
+    text-decoration: none;
+}
+
+.active {
+    font-style: italic;
+}

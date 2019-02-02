@@ -1,0 +1,21 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-mongoose",
+      "settings": {
+        "client": "mongo",
+        "host": "ds125851.mlab.com",
+        "srv": false,
+        "port": "25851",
+        "database": "react-ecommerce",
+        "username": "marcus",
+        "password": "marcus1234"
+      },
+      "options": {
+        "authenticationDatabase": "react-ecommerce",
+        "ssl": false
+      }
+    }
+  }
+}
